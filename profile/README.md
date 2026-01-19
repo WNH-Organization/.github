@@ -9,7 +9,7 @@
     <b>Unlocking the potential of e-waste, one "voided warranty" at a time.</b>
   </p>
 
-  [ Projects ](#-projects) • [ The Mission ](#-the-mission) • [ Join Us ](#-join-the-initiative)
+  [ Projects ](#-flagship-project) • [ The Mission ](#-the-mission) • [ Join Us ](#-join-the-initiative)
 
 </div>
 
@@ -30,9 +30,9 @@ While others are **buying new boards and focusing on competitions**, we are hack
 
 ---
 
-## 🚀 Flagship Project
+## 🛠️ Flagship Project
 
-### 🛠️ [The 3020 Project](https://0rayn.github.io/WhyNot/posts/the-3020-project/)
+### [The 3020 Project](https://0rayn.github.io/WhyNot/posts/the-3020-project/)
 > *Turning a Travel Router into a Distributed Desktop.*
 
 A modular embedded system built around a **TL-MR3020**. It transforms a simple router into a central hub that controls a system of microcontrollers to overcome its own hardware limitations.
